@@ -2,8 +2,14 @@
 
 ### Day 1: November 11, Monday
 
-**Today's Progress**: JS, Arrays + Functions
+**Today's Progress**: 
+* Joined [GitHub](https://github.com/sofianiu).
+* Joined [Twitter](https://twitter.com/NiuSofia).
+* Committed to the [#100DaysOfCode Challenge](https://www.100daysofcode.com/).
+* Created **this** progress log!
+* Started working on [Practical JavaScript](https://watchandcode.com/p/practical-javascript), taught by Gordon Zhu.
+* Learned about arrays.
 
-**Thoughts** 
+**Mood:** Nervous, but excited!
 
-**Link(s) to work**
+**Thoughts:** Most of today was spent laying the foundations for what lies ahead. I'm excited to be embarking on this journey, but also nervous. For those who don't know, I've recently quit my job so that I can pursue programming full-time. My goal is to study independently for a year, and then decide on the next course of action. Perhaps I'll join a bootcamp, apply for an internship, or even be offered a job! There's a lot on the line, but I'm confident that I can do this! Knowing myself, I'll need to be careful not to do too much, too soon. I am planning to start slow, in order to prevent myself from burning out.
