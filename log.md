@@ -2,7 +2,7 @@
 
 ### Day 1: November 11, Monday
 
-**Today's Progress**: 
+**Today's Progress**: JS, Arrays + Functions
 
 **Thoughts** 
 
