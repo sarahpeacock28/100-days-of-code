@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Progress Log
 
 ### Day 1: November 11, Monday
 
