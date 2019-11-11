@@ -6,7 +6,7 @@
 * Joined [GitHub](https://github.com/sofianiu).
 * Joined [Twitter](https://twitter.com/NiuSofia).
 * Committed to the [#100DaysOfCode Challenge](https://www.100daysofcode.com/).
-* Created **this** progress log!☺
+* Created **this** progress log! ☺
 * Started working on [Practical JavaScript](https://watchandcode.com/p/practical-javascript), taught by Gordon Zhu.
 * Learned about **arrays.**
 
