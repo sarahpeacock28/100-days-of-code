@@ -15,3 +15,7 @@
 It would also be good to add extra options to Google Forms. Possibly a project where a Google Form once used creates an email, calendar event and adds to a Google Sheet.
 
 Also - what can Javascript do for a Google Site?
+
+Learnt about https://jsfiddle.net/ for testing javascript in webspace when not using Google Development Env
+
+Learnt about Git Hub - push commands and pull commands for using different versions of code on device and having version control
