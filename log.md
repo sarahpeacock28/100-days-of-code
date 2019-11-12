@@ -1,15 +1,18 @@
 # 100 Days Of Code - Progress Log
 
-### Day 1: November 11, Monday
+### Day 1: November 12, Monday
 
 **Today's Progress**: 
-* Joined [GitHub](https://github.com/sofianiu).
-* Joined [Twitter](https://twitter.com/NiuSofia).
-* Committed to the [#100DaysOfCode Challenge](https://www.100daysofcode.com/).
+* Joined [GitHub](https://github.com/sarahpeacock28).
+* * Committed to the [#100DaysOfCode Challenge](https://www.100daysofcode.com/).
 * Created **this** progress log! ☺
 * Started working on [Practical JavaScript](https://watchandcode.com/p/practical-javascript), taught by [Gordon Zhu](https://github.com/gordonmzhu).
 * Learned about **arrays.**
 
-**Mood:** Nervous, but excited!
+**Mood:** Excited! I hope I can pull this off...
 
-**Thoughts:** Most of today was spent laying the foundations for what lies ahead. I'm excited to be embarking on this journey, but also nervous. For those who don't know, I've recently quit my job so that I can pursue programming full-time. My goal is to study independently for a year, before deciding on the next course of action. Perhaps I'll join a bootcamp, apply for an internship, or even be offered a job! There's a lot on the line, but I'm confident that I can do this! However, knowing myself, I'll need to be careful not to do too much, too soon. I am planning to start slow, in order to prevent myself from burning out.
+**Thoughts:** I started coding using javascript on Friday. Will be useful for adding bolt ons to Google Apps at work 9Univresity of Sheffield). One of the projects I would like to work on is creating an attendance system that uses Google Apps Script to take a barcode reader input and create an attendance register for students in Google Sheets. However, this feels a bit daunting at the moment. Although the basic building blocks are 1. Barcode reader reads barcode directly into Google Sheet 2. Google Sheet looks up unique identifier 3. Google sheet marks student present if unique identifier found. 3. Google Sheet marks student absent if unique identifier not found. Instructor can add absence reason.
+
+It would also be good to add extra options to Google Forms. Possibly a project where a Google Form once used creates an email, calendar event and adds to a Google Sheet.
+
+Also - what can Javascript do for a Google Site?
