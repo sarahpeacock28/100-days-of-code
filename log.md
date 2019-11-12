@@ -6,8 +6,7 @@
 * Joined [GitHub](https://github.com/sarahpeacock28).
 * * Committed to the [#100DaysOfCode Challenge](https://www.100daysofcode.com/).
 * Created **this** progress log! ☺
-* Started working on [Practical JavaScript](https://watchandcode.com/p/practical-javascript), taught by [Gordon Zhu](https://github.com/gordonmzhu).
-* Learned about **arrays.**
+
 
 **Mood:** Excited! I hope I can pull this off...
 
