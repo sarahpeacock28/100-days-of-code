@@ -19,3 +19,13 @@ Also - what can Javascript do for a Google Site?
 Learnt about https://jsfiddle.net/ for testing javascript in webspace when not using Google Development Env
 
 Learnt about Git Hub - push commands and pull commands for using different versions of code on device and having version control
+
+Day 2: November 13
+Today's Progress:
+
+Worked through Google Script tutorial to create simple mail merge using forms and sheets
+Worked through intro to Javascript on Code Academy
+
+Mood: Excited! Having fun :)
+
+Thoughts: This is actually fun. Started the tutorial on Code Academy as I like to understand things from the bottom up.
